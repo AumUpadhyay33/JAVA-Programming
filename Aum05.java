@@ -1,3 +1,4 @@
+//REVERSAL OF DIGITS OF A NUMBER
 import java.util.Scanner;
 class Aum05
 {
