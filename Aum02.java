@@ -1,3 +1,4 @@
+//FIRST N PRIME NUMBERS
 import java.util.Scanner;
 class Aum02
 {
